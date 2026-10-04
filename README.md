@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://luishoifan.tech"><img src="https://img.shields.io/badge/Portfolio-luishoifan.tech-e2f47c?style=flat-square&labelColor=131210" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/LuisHoi"><img src="https://img.shields.io/badge/LinkedIn-Luis%20Hoi%20Fan-e2f47c?style=flat-square&labelColor=131210" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/luis-hoi-41a8302a4"><img src="https://img.shields.io/badge/LinkedIn-Luis%20Hoi%20Fan-e2f47c?style=flat-square&labelColor=131210" alt="LinkedIn" /></a>
   <a href="mailto:lhoifan@uoguelph.ca"><img src="https://img.shields.io/badge/Email-lhoifan%40uoguelph.ca-e2f47c?style=flat-square&labelColor=131210&logo=minutemailer&logoColor=e2f47c" alt="Email" /></a>
   <a href="https://doi.org/10.1002/app.71533"><img src="https://img.shields.io/badge/Paper-J.%20Appl.%20Polym.%20Sci.%202026-e2f47c?style=flat-square&labelColor=131210&logo=doi&logoColor=e2f47c" alt="Published paper" /></a>
 </p>
